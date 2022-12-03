@@ -4,11 +4,8 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/Youssef535/Ai-Bot-">
-    <img src="![Rasa_AI](https://user-images.githubusercontent.com/82522735/205438163-2c478c60-3234-4686-b317-149e744c842d.png)
-" alt="Logo" width="130" height="150">
-  </a>
-
+  <a href="https://github.com/Youssef535/Ai-Bot-"></a>
+  ![Screenshot (433)](https://user-images.githubusercontent.com/82522735/205445239-e146dae7-1d77-48cd-9803-f532132ce432.png)
   <h3 align="center">AI ChatBOT</h3>
 
   <p align="center">
@@ -52,7 +49,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Screenshot (417)](https://user-images.githubusercontent.com/82522735/202430917-29623ee3-dcb3-48f4-acb3-24f2614e0eea.png)
+![Screenshot (434)](https://user-images.githubusercontent.com/82522735/205445175-be3dde55-1d0b-4a3a-8ca0-35916c21cf35.png)
 
 
 Crypto Cap is a clone of CoinCap and it's a light weight web app  trying to make it a better version.
