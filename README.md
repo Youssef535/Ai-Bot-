@@ -57,7 +57,7 @@ It's a chatbot built with python and RASA you can have a conversation with the b
 
 Big shout out to the creators of those tools
 
-* [Python](https://www.python.org/) 
+* [Python](https://www.python.org/) version 3.8
 * [RASA](https://rasa.com/docs/)
 * [Anaconda](https://www.anaconda.com/)
 
@@ -87,6 +87,8 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push`)
 5. Open a Pull Request with adding a feature explaining to make it easy to understand
+6. Make sure you have python installed in your machine install RASA using npm or anaconda 
+7.  !IT WILL NOT WORK IN PYTHON 3.10 OR PYTHON 3.9
 
 <!-- LICENSE -->
 ## License
