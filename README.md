@@ -4,23 +4,24 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/Youssef535/Crypto-Cap">
-    <img src="https://github.com/Youssef535/Crypto-Cap/blob/master/src/assets/images/logo.jpg" alt="Logo" width="130" height="150">
+  <a href="https://github.com/Youssef535/Ai-Bot-">
+    <img src="![Rasa_AI](https://user-images.githubusercontent.com/82522735/205438163-2c478c60-3234-4686-b317-149e744c842d.png)
+" alt="Logo" width="130" height="150">
   </a>
 
-  <h3 align="center">Crypto Cap</h3>
+  <h3 align="center">AI ChatBOT</h3>
 
   <p align="center">
-    The global crypto market cap
+     artificial intelligence App 
     <br />
-    <a href="https://github.com/Youssef535/Crypto-Cap"><strong>Explore the docs »</strong></a>
+    <a href="https://rasa.com/docs/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
     ·
-    <a href='https://github.com/Youssef535/Crypto-Cap/issues'>Report Bug</a>
+    <a href='https://github.com/Youssef535/Ai-Bot-/issues'>Report Bug</a>
     ·
-    <a href="https://github.com/Youssef535/Crypto-Cap/pulls">Request Feature</a>
+    <a href="https://github.com/Youssef535/Ai-Bot-/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -61,12 +62,10 @@ You can login to your account and recieve last notifications and last crypto, NF
 
 Big shout out to the creators of those tools
 
-* [Helmet](https://www.npmjs.com/package/react-helmet) [SEO]
-* [React.js](https://reactjs.org/)
-* [Bootstrap 5](https://react-bootstrap.netlify.app/)
-* [Firebase](https://firebase.google.com)
-* [React Icons](https://react-icons.github.io/)
-* [React Router v6](https://reactrouter.com/)
+* [Python](https://www.python.org/) 
+* [RASA](https://rasa.com/docs/)
+* [Anaconda](https://www.anaconda.com/)
+
 
 
 <!-- GETTING STARTED -->
