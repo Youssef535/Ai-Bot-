@@ -52,9 +52,7 @@
 ![Screenshot (434)](https://user-images.githubusercontent.com/82522735/205445175-be3dde55-1d0b-4a3a-8ca0-35916c21cf35.png)
 
 
-Crypto Cap is a clone of CoinCap and it's a light weight web app  trying to make it a better version.
-You can login to your account and recieve last notifications and last crypto, NFT news.
-
+It's a chatbot built with python and RASA you can have a conversation with the bot and play with him still working on it please feel free to contribute
 ### Built With
 
 Big shout out to the creators of those tools
@@ -74,7 +72,7 @@ To install the project in your machine, please follow the instructions below:
 
 Clone the repository
   ```sh
-  git clone https://github.com/Youssef535/Crypto-Cap.git
+  git clone https://github.com/Youssef535/Ai-Bot-.git
   ```
   
 <!-- CONTRIBUTING -->
@@ -100,4 +98,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 Youssef Soltani - [@YoussefSoltani](https://twitter.com/Youssef60459694) - youssefsoltani53@yahoo.com
 
-Project Link: [(https://github.com/Youssef535/Crypto-Cap)](https://github.com/Youssef535/Crypto-Cap)
+Project Link: [(https://github.com/Youssef535/Ai-Bot-)](https://github.com/Youssef535/Ai-Bot-)
