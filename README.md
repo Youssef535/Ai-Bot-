@@ -54,6 +54,7 @@
 
 It's a chatbot built with python and RASA you can have a conversation with the bot and play with him still working on it please feel free to contribute.
 #### Still Working on the new version of the bot using RASA nlu and machine learning algorithm.
+#### The bot will be integrated with telegram and messanger facebook, web, also still working on new features like customer services.
 ### Built With
 
 Big shout out to the creators of those tools
