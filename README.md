@@ -62,6 +62,7 @@ Big shout out to the creators of those tools
 * [Python](https://www.python.org/) version 3.8 please note that you need a specific version of python
 * [RASA](https://rasa.com/docs/)
 * [Anaconda](https://www.anaconda.com/)
+* #### Please make sure to install all dependencies in their last version
 
 
 
