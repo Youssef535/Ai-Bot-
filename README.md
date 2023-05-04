@@ -52,7 +52,8 @@
 ![Screenshot (434)](https://user-images.githubusercontent.com/82522735/205445175-be3dde55-1d0b-4a3a-8ca0-35916c21cf35.png)
 
 
-It's a chatbot built with python and RASA you can have a conversation with the bot and play with him still working on it please feel free to contribute
+It's a chatbot built with python and RASA you can have a conversation with the bot and play with him still working on it please feel free to contribute.
+#### Still Working on the new version of the bot using RASA nlu and machine learning algorithm.
 ### Built With
 
 Big shout out to the creators of those tools
